@@ -15,7 +15,7 @@ INTERFACE WIFI :
 - **nom**** :** Intel(R) Dual Band Wireless\_AC 8265
 
 - **adresse physique**** :** 60-F6-77-EF-EE-BC
-- **adresse IPv4 :** 10.33.2.77
+- **adresse IPv4 :** 10.33.2.66
 - **adresse réseau :** 10.33.2.0
 - **adresse de broadcast :** 10.33.2.255
 - **adresse IP passerelle :** 10.33.3.253
@@ -23,7 +23,7 @@ INTERFACE WIFI :
 INTERFACE ETHERNET :
 
 - **nom :** Realtek PCIe GBE Family Controller
-- **adresse physique :** 18-31-BF-12-94-2D
+- **adresse physique :** 18-31-BF-12-98-2E
 - **adresse IPv4 :** aucune
 - **adresse réseau :** aucune
 - **adresse de broadcast :** aucune
