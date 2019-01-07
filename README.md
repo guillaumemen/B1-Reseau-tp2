@@ -14,7 +14,7 @@ INTERFACE WIFI :
 
 - **nom**** :** Intel(R) Dual Band Wireless\_AC 8265
 
-- **adresse physique**** :** 60-F6-77-EF-EE-BC
+- **adresse physique**** :** 60-F6-77-EF-ED-BC
 - **adresse IPv4 :** 10.33.2.66
 - **adresse réseau :** 10.33.2.0
 - **adresse de broadcast :** 10.33.2.255
