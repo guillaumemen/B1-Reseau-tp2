@@ -63,9 +63,9 @@ Je change mon adresse IPv4 actuelle pour : 10.33.1.150
 Pour connaître les IP disponibles sur un réseau, il suffit de taper la commande **nmap -sn -PE 10.33.3.253/24** (10.33.3.253/24 étant l'IP du serveur Ynov).
 
 La commande affiche toute les adresses IP utilisés avec le nom du fabriquant.
-![sparkles](./capture.PNG)
+![image](https://github.com/guillaumemen/B1-Reseau-tp2/edit/master/Capture(1).PNG)
 Elle précise le nombre d'IP total ainsi que le nombre d'IP utilisées.
-![sparkles](./capture1.PNG)
+![image](https://github.com/guillaumemen/B1-Reseau-tp2/edit/master/Capture(1).PNG)
 Les IP disponibles sontoutes celles qui ne sont pas indiquées.
 
 **II.Exploration locale en duo**
